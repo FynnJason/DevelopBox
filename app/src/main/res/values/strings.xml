@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DevelopBox</string>
+    <string name="name_1">第三方控件</string>
+    <string name="description_1">描述：需要导入第三方包来使用的控件</string>
+    <string name="name_1_1">ShadowView</string>
+    <string name="description_1_1">描述：灵活的ShadowView，可替代CardView使用</string>
+    <string name="header_1">致力打造最实用的</string>
+    <string name="header_2">开发工具</string>
+    <string name="launch_name">最懂你的开发工具</string>
+</resources>
